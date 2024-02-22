@@ -1,6 +1,3 @@
-# ML-Rainfall-Prediction
-This repository contains code for a machine learning project focused on predicting rainfall.
-
 # Rainfall Prediction using Machine Learning
 
 This project aims to predict rainfall using various machine learning algorithms. Accurate rainfall prediction is crucial for agriculture, transportation planning, and disaster management.
