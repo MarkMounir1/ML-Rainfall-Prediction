@@ -1,5 +1,5 @@
-//# ML-Rainfall-Prediction
-//This repository contains code for a machine learning project focused on predicting rainfall.
+# ML-Rainfall-Prediction
+This repository contains code for a machine learning project focused on predicting rainfall.
 
 # Rainfall Prediction using Machine Learning
 
